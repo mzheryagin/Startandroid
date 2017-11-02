@@ -3,12 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Androidlessions.iml" filepath="$PROJECT_DIR$/Androidlessions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0102_ActivityListener/P0102_ActivityListener.iml" filepath="$PROJECT_DIR$/P0102_ActivityListener/P0102_ActivityListener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/P0111_ResValues/P0111_ResValues.iml" filepath="$PROJECT_DIR$/P0111_ResValues/P0111_ResValues.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0031firstproject/p0031firstproject.iml" filepath="$PROJECT_DIR$/p0031firstproject/p0031firstproject.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0041basicviews/p0041basicviews.iml" filepath="$PROJECT_DIR$/p0041basicviews/p0041basicviews.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0051layoutfiles/p0051layoutfiles.iml" filepath="$PROJECT_DIR$/p0051layoutfiles/p0051layoutfiles.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0061layouts/p0061layouts.iml" filepath="$PROJECT_DIR$/p0061layouts/p0061layouts.iml" />
-      <module fileurl="file://$PROJECT_DIR$/p0072layoutprop/0072layoutprop.iml" filepath="$PROJECT_DIR$/p0072layoutprop/0072layoutprop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0072layoutprop/p0072layoutprop.iml" filepath="$PROJECT_DIR$/p0072layoutprop/p0072layoutprop.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0081viewbyid/p0081viewbyid.iml" filepath="$PROJECT_DIR$/p0081viewbyid/p0081viewbyid.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0091onclickbuttons/p0091onclickbuttons.iml" filepath="$PROJECT_DIR$/p0091onclickbuttons/p0091onclickbuttons.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0101_listener/p0101_listener.iml" filepath="$PROJECT_DIR$/p0101_listener/p0101_listener.iml" />
