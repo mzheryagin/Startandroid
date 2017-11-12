@@ -90,6 +90,7 @@
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/manifests" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/prebuild" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/res" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/rs" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/splits-support" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/symbols" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/tmp" />
@@ -122,6 +123,5 @@
     <orderEntry type="library" name="com.android.support:appcompat-v7-24.2.1" level="project" />
     <orderEntry type="library" name="com.android.support:support-core-ui-24.2.1" level="project" />
     <orderEntry type="library" name="com.android.support:support-compat-24.2.1" level="project" />
-    <orderEntry type="library" name="android-android-24" level="project" />
   </component>
 </module>
