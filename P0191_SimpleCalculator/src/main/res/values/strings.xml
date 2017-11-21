@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleCalculator</string>
+    <string name="btnAddText">+</string>
+    <string name="btnSubText">-</string>
+    <string name="btnMultText">x</string>
+    <string name="btnDivText">/</string>
+</resources>
